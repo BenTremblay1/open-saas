@@ -1,0 +1,75 @@
+{
+  "competitors_analyzed": 3,
+  "competitor_details": [
+    {
+      "name": "ezyVet",
+      "headline": "Powering your practice from the inside out",
+      "cta": "Book a demo",
+      "features_emphasized": [
+        "Broad platform",
+        "General workflow automation"
+      ],
+      "pricing_presentation": "tiered",
+      "social_proof": "customer logos + case studies",
+      "weaknesses_visible": [
+        "broad messaging",
+        "limited niche specificity"
+      ]
+    },
+    {
+      "name": "NaVetor",
+      "headline": "Cloud Based Veterinary Practice Management Software - NaVetor",
+      "cta": "Book a demo",
+      "features_emphasized": [
+        "Broad platform",
+        "General workflow automation"
+      ],
+      "pricing_presentation": "tiered",
+      "social_proof": "customer logos + case studies",
+      "weaknesses_visible": [
+        "broad messaging",
+        "limited niche specificity"
+      ]
+    },
+    {
+      "name": "SimplePractice",
+      "headline": "EHR Software for Health &amp; Wellness Professionals | SimplePractice",
+      "cta": "Book a demo",
+      "features_emphasized": [
+        "Broad platform",
+        "General workflow automation"
+      ],
+      "pricing_presentation": "tiered",
+      "social_proof": "customer logos + case studies",
+      "weaknesses_visible": [
+        "broad messaging",
+        "limited niche specificity"
+      ]
+    }
+  ],
+  "positioning_gap": "Competitors talk to broad businesses. Strong opportunity to target one buyer persona with pain-specific copy.",
+  "recommended_angle": "persona-specific, outcome-focused",
+  "competitor_signals": [
+    {
+      "name": "ezyVet",
+      "url": "https://www.ezyvet.com",
+      "title": "Cloud Veterinary Software | ezyVet",
+      "meta_description": "ezyVet is the next generation in cloud-based Practice Management software. An easy-to-use, all-in-one solution packed full of tools and features to help veterinary practices function to their full potential.",
+      "headline": "Powering your practice from the inside out"
+    },
+    {
+      "name": "NaVetor",
+      "url": "https://www.navetor.com",
+      "title": "Cloud Based Veterinary Practice Management Software - NaVetor",
+      "meta_description": "NaVetor is the best cloud based veterinary practice management software that includes mobile app to help you manage your Vet practice anywhere with ease.",
+      "headline": ""
+    },
+    {
+      "name": "SimplePractice",
+      "url": "https://www.simplepractice.com",
+      "title": "EHR Software for Health &amp; Wellness Professionals | SimplePractice",
+      "meta_description": "Get the #1 HIPAA-compliant EHR and practice management software. Join 250,000+ therapists, health &amp; wellness professionals. Start your free trial today.",
+      "headline": ""
+    }
+  ]
+}

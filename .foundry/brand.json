@@ -1,0 +1,44 @@
+{
+  "name": "ClinicRoster",
+  "domain": "clinicroster.com",
+  "domain_registered": false,
+  "domain_cost": null,
+  "tagline": "Healthcare Staff scheduling without spreadsheet chaos",
+  "colors": {
+    "primary": "#1F4FBF",
+    "secondary": "#F2F6FF",
+    "accent": "#F59E0B",
+    "text_dark": "#13223F",
+    "text_light": "#FFFFFF"
+  },
+  "cta_button_color_rationale": "High contrast against the primary palette improves CTA visibility.",
+  "headline": "Fix healthcare staff scheduling bottlenecks fast",
+  "subheadline": "Built for teams dealing with schedule and compliance tracking for independent specialty clinics.",
+  "pain_points": [
+    {
+      "title": "Manual tracking",
+      "description": "Teams lose time reconciling spreadsheets and manual updates."
+    },
+    {
+      "title": "Missed deadlines",
+      "description": "Critical tasks are missed because no single source of truth exists."
+    },
+    {
+      "title": "Fragmented ownership",
+      "description": "Work is spread across people and tools with poor accountability."
+    }
+  ],
+  "cta_text": "Get Early Access",
+  "offer_price_usd": 79,
+  "offer_label": "Founding customer lifetime access",
+  "offer_terms": "One-time payment for lifetime access while beta cohort is open.",
+  "offer_urgency": "Limited to first 50 teams.",
+  "social_proof_placeholder": "Join early healthcare teams already simplifying operations",
+  "above_fold_elements": [
+    "headline",
+    "subheadline",
+    "email_input",
+    "cta_button",
+    "social_proof_line"
+  ]
+}

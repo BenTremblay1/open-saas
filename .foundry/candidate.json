@@ -1,0 +1,37 @@
+{
+  "id": "candidate_20260219_902",
+  "name": "ClinicRoster",
+  "url": "https://example.com/clinicroster",
+  "estimated_mrr": 22000.0,
+  "mrr_confidence": "medium",
+  "industry": "Healthcare",
+  "function": "Staff scheduling",
+  "niche_description": "Schedule and compliance tracking for independent specialty clinics",
+  "estimated_mvp_days": 14,
+  "integration_count": 2,
+  "maintenance_risk": "low",
+  "competitive_density": "medium",
+  "wedge": "Shift coverage and compliance reminders for small teams",
+  "estimated_cpc": 2.4,
+  "channel_fit": 4,
+  "adjacent_opportunities": 2,
+  "tags": [
+    "operations",
+    "schedule"
+  ],
+  "source_type": "llm_generated",
+  "source_week": 1,
+  "source_rotation_label": "Revenue-Transparent Platforms",
+  "score_breakdown": {
+    "revenue_signal": 29,
+    "buildability": 20,
+    "maintenance_burden": 13,
+    "defensibility": 8,
+    "acquisition_cost": 8,
+    "expansion_potential": 4,
+    "vault_adjustments": []
+  },
+  "opportunity_score": 8.2,
+  "score": 82,
+  "discovered_at": "2026-02-19T02:04:19.127282+00:00"
+}
