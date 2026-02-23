@@ -1,0 +1,37 @@
+{
+  "name": "ForecastFlow",
+  "domain": "forecastflow.co",
+  "domain_registered": false,
+  "domain_cost": 12.0,
+  "tagline": "Revenue forecasting without the spreadsheet nightmares",
+  "colors": {
+    "primary": "#1e3a5f",
+    "secondary": "#0d9488",
+    "accent": "#f59e0b",
+    "background": "#ffffff",
+    "text_dark": "#1f2937",
+    "text_light": "#6b7280"
+  },
+  "cta_button_color_rationale": "Teal (#0d9488) was chosen because it pairs strongly with navy while signaling growth, revenue, and money - the exact outcomes early-stage founders care about. It also stands out against competitor blue-dominated designs.",
+  "headline": "Finally, MRR Forecasting That Doesn't Break",
+  "subheadline": "Built for sub-$1M ARR SaaS founders who need reliable revenue projections without the spreadsheet chaos or expensive finance tools.",
+  "pain_points": [
+    "Spreadsheets break under complex SaaS revenue models and choke on churn, upgrades, and expansions",
+    "Enterprise finance tools are overkill and cost more than your entire engineering budget",
+    "You're flying blind on runway, hiring plans, and fundraising without accurate forecasts"
+  ],
+  "cta_text": "Start Forecasting Free",
+  "offer_price_usd": 29,
+  "offer_label": "Launch Special",
+  "offer_terms": "Locked in forever at $29/month for early customers",
+  "offer_urgency": "First 100 founders lock in lifetime discount",
+  "social_proof_placeholder": "[Insert: Number of founders + ARR under management] revenue modeled",
+  "above_fold_elements": [
+    "Logo + tagline in header",
+    "Hero headline + subheadline",
+    "Primary CTA button",
+    "Simple product mockup or animated revenue chart graphic",
+    "Trust badges: 'No credit card required' + '14-day free trial'",
+    "Single-sentence social proof or customer avatar strip"
+  ]
+}

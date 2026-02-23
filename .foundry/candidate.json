@@ -1,0 +1,91 @@
+{
+  "id": "candidate_20250120_008",
+  "industry": "SaaS/Software",
+  "function": "Finance & Accounting",
+  "niche_description": "Simple MRR/ARR forecasting tool for sub-$1M ARR SaaS companies without dedicated finance teams",
+  "wedge": "Founders use spreadsheets that break; no affordable, simple forecasting exists for early-stage SaaS",
+  "estimated_mrr": 32000.0,
+  "mrr_confidence": "high",
+  "estimated_mvp_days": 20,
+  "integration_count": 6,
+  "maintenance_risk": "low",
+  "competitive_density": "medium",
+  "tags": [
+    "revenue forecasting",
+    "MRR",
+    "ARR",
+    "financial planning",
+    "SaaS finance"
+  ],
+  "source_type": "tooling_gap",
+  "adjacent_opportunities": 0,
+  "name": "candidate_20250120_008",
+  "url": "",
+  "estimated_cpc": 5.0,
+  "channel_fit": 3,
+  "known_competitors": [
+    {
+      "name": "Airtable",
+      "url": "https://www.airtable.com"
+    }
+  ],
+  "evidence_sources": [
+    {
+      "title": "Airtable product",
+      "url": "https://www.airtable.com",
+      "evidence_type": "incumbent_product",
+      "note": "Airtable already serves buyers in Simple MRR/ARR forecasting tool for sub-$1M ARR SaaS companies without dedicated finance teams."
+    },
+    {
+      "title": "G2 software categories",
+      "url": "https://www.g2.com/categories",
+      "evidence_type": "software_marketplace",
+      "note": "Baseline market evidence from active software buyer categories."
+    },
+    {
+      "title": "Capterra software categories",
+      "url": "https://www.capterra.com/categories/",
+      "evidence_type": "software_marketplace",
+      "note": "SMB/SME demand discovery through software category comparison."
+    }
+  ],
+  "market_exists_signal": "competitor_evidence_present",
+  "estimated_mrr_band": {
+    "low": 25600,
+    "base": 32000,
+    "high": 38400
+  },
+  "estimated_cpc_band": {
+    "low": 4.0,
+    "base": 5.0,
+    "high": 6.0
+  },
+  "recommended_boilerplate": "github_open_saas",
+  "boilerplate_fit_signal": "moderate",
+  "boilerplate_keyword_matches": 1,
+  "boilerplate_fit_reason": "Matched 1 launch-template keyword(s) in candidate profile.",
+  "incumbent_pressure": "low",
+  "incumbent_giant_count": 0,
+  "competitor_count": 1,
+  "source_week": 1,
+  "source_rotation_label": "Revenue-Transparent Platforms",
+  "score_breakdown": {
+    "revenue_signal": 20,
+    "buildability": 10,
+    "maintenance_burden": 8,
+    "defensibility": 6,
+    "acquisition_cost": 4,
+    "expansion_potential": 0,
+    "market_validation": 4,
+    "evidence_strength": 11,
+    "speed_to_launch_fit": 4,
+    "competition_quality": 7,
+    "vault_adjustments": []
+  },
+  "opportunity_score": 7.4,
+  "score": 74,
+  "evidence_score": 9.2,
+  "evidence_grade": "strong",
+  "launch_fit_score": 4,
+  "discovered_at": "2026-02-22T00:19:12.644395+00:00"
+}

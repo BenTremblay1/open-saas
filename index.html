@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>ForecastFlow | Revenue forecasting without the spreadsheet nightmares</title>
+  <style>
+    :root {
+      --surface: #0d9488;
+      --ink: #1f2937;
+      --muted: #1e3a5f;
+      --accent: #f59e0b;
+      --accent-ink: #1f2937;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: 'Sora', 'Avenir Next', 'Segoe UI', sans-serif; background: var(--surface); color: var(--ink); }
+    .hero { background: linear-gradient(135deg, #0a1431 0%, #17356f 45%, #2959b7 100%); color: #fff; padding: 64px 20px 52px; }
+    .wrap { max-width: 1120px; margin: 0 auto; }
+    .kicker { display: inline-block; font-size: 12px; letter-spacing: 0.12em; text-transform: uppercase; padding: 7px 12px; border-radius: 999px; background: rgba(255,255,255,.15); }
+    h1 { margin: 14px 0 12px; font-size: clamp(2rem, 5vw, 3.6rem); line-height: 1.04; max-width: 900px; }
+    .sub { font-size: clamp(1.05rem, 2vw, 1.35rem); line-height: 1.4; max-width: 820px; opacity: .95; }
+    .cta { margin-top: 24px; display: flex; gap: 12px; flex-wrap: wrap; }
+    input[type=email] { width: min(460px, 90vw); padding: 14px 15px; border-radius: 12px; border: none; font-size: 16px; }
+    button { border: none; border-radius: 12px; background: var(--accent); color: var(--accent-ink); font-weight: 800; padding: 14px 20px; cursor: pointer; }
+    .proof { margin-top: 14px; font-size: 14px; opacity: .9; }
+    .section { padding: 44px 20px; }
+    .section h2 { margin: 0 0 14px; font-size: clamp(1.4rem, 2.3vw, 2rem); }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }
+    .tile { background: #fff; border: 1px solid #dbe6f6; border-radius: 14px; padding: 16px; }
+    .tile h3 { margin: 0 0 8px; font-size: 1.05rem; }
+    .tile p { margin: 0; line-height: 1.45; color: #243a5f; }
+    .meta { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 12px; margin-top: 16px; }
+    .metric { background: #fff; border: 1px solid #dbe6f6; border-radius: 12px; padding: 12px; }
+    .metric .k { font-size: 12px; color: #5b6f92; text-transform: uppercase; }
+    .metric .v { margin-top: 4px; font-weight: 800; font-size: 1.15rem; }
+    .faq details { background: #fff; border: 1px solid #dbe6f6; border-radius: 12px; padding: 12px; margin-bottom: 10px; }
+    footer { padding: 26px 20px 42px; color: #4f648a; text-align: center; font-size: 13px; }
+  </style>
+</head>
+<body>
+  <section class="hero">
+    <div class="wrap">
+      <span class="kicker">SaaS/Software workflow product</span>
+      <h1>Finally, MRR Forecasting That Doesn&#x27;t Break</h1>
+      <p class="sub">Built for sub-$1M ARR SaaS founders who need reliable revenue projections without the spreadsheet chaos or expensive finance tools.</p>
+      <form class="cta" onsubmit="event.preventDefault(); alert('Thanks, you are on the waitlist.');">
+        <input type="email" required placeholder="you@company.com" />
+        <button type="submit">Start Forecasting Free</button>
+      </form>
+      <p class="proof">[Insert: Number of founders + ARR under management] revenue modeled</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Pain-first positioning for early traction</h2>
+      <div class="grid">
+        <article class='tile'><h3>Manual Work</h3><p>Too much process lives in spreadsheets and inboxes.</p></article><article class='tile'><h3>Missed Timing</h3><p>Critical actions slip and create revenue risk.</p></article><article class='tile'><h3>Weak Visibility</h3><p>Leaders cannot see status until issues escalate.</p></article>
+      </div>
+      <div class="meta">
+        <div class="metric"><div class="k">Offer</div><div class="v">Launch Special</div></div>
+        <div class="metric"><div class="k">Price</div><div class="v">$79 one-time</div></div>
+        <div class="metric"><div class="k">Cohort</div><div class="v">First 100 founders lock in lifetime discount</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Why this can win despite competition</h2>
+      <div class="grid">
+        <article class="tile"><h3>Current alternatives</h3><p>Teams typically evaluate Airtable before selecting a workflow platform.</p></article>
+        <article class='tile'><h3>Airtable</h3><p>Broad platform positioning</p><p><strong>Gap:</strong> Generic positioning and broad product framing.</p></article>
+      </div>
+      <p style="margin-top:14px; color:#30496f;"><strong>Positioning gap:</strong> Airtable is a generalist platform that forces founders to build their own forecasting templates from scratch. The complexity breaks at scale, and there&#x27;s no dedicated, affordable solution specifically designed for sub-$1M ARR SaaS founders who need plug-and-play MRR/ARR projections without finance expertise.</p>
+      <p style="margin-top:8px; color:#30496f;"><strong>Our angle:</strong> Position as the &#x27;TurboTax for SaaS revenue forecasting&#x27; - a purpose-built, no-setup tool that replaces fragile spreadsheet models with intelligent, automated forecasting designed specifically for pre-revenue to $1M ARR SaaS companies. Emphasize simplicity, founder-focused UX, and pricing that aligns with early-stage budgets.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Founding customer offer</h2>
+      <p style="margin:0 0 14px; color:#30496f;">Locked in forever at $29/month for early customers</p>
+      <form class="cta" onsubmit="event.preventDefault(); alert('Thanks, we will send your founding-customer checkout details.');">
+        <input type="email" required placeholder="work email" />
+        <button type="submit">Claim Lifetime Access - $79</button>
+      </form>
+      <p style="margin-top:10px; color:#4f648a;">Prefer to wait? Join the free waitlist and we will send launch updates.</p>
+    </div>
+  </section>
+
+  <section class="section faq">
+    <div class="wrap">
+      <h2>FAQ</h2>
+      <details><summary>How fast can we go live?</summary><p>Most teams can launch a pilot quickly using one focused workflow and existing data exports.</p></details>
+      <details><summary>Who is this designed for?</summary><p>This offer is built for operators who own execution quality and need clear accountability.</p></details>
+      <details><summary>What does early access include?</summary><p>Priority onboarding, founder support, and direct input into roadmap priorities.</p></details>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="wrap">
+      <h2>Ready to test market pull?</h2>
+      <form class="cta" onsubmit="event.preventDefault(); alert('Thanks, we will reach out shortly.');">
+        <input type="email" required placeholder="work email" />
+        <button type="submit">Join Free Waitlist</button>
+      </form>
+    </div>
+  </section>
+  <footer>ForecastFlow | Theme: Clean Product</footer>
+</body>
+</html>

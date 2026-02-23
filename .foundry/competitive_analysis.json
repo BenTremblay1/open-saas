@@ -1,0 +1,25 @@
+{
+  "competitors_analyzed": 1,
+  "competitor_details": [
+    {
+      "name": "Airtable",
+      "url": "https://www.airtable.com",
+      "position": "Enterprise-ready AI workflows, apps & agents platform",
+      "primary_use_case": "General-purpose no-code tool for business process automation",
+      "target_market": "500,000+ brands across all industries and sizes",
+      "weakness_for_niche": "Overly complex for simple SaaS forecasting; requires template building and maintenance; no native MRR/ARR logic",
+      "pricing_indicator": "Enterprise-focused pricing not tailored to sub-$1M ARR budgets"
+    }
+  ],
+  "positioning_gap": "Airtable is a generalist platform that forces founders to build their own forecasting templates from scratch. The complexity breaks at scale, and there's no dedicated, affordable solution specifically designed for sub-$1M ARR SaaS founders who need plug-and-play MRR/ARR projections without finance expertise.",
+  "recommended_angle": "Position as the 'TurboTax for SaaS revenue forecasting' - a purpose-built, no-setup tool that replaces fragile spreadsheet models with intelligent, automated forecasting designed specifically for pre-revenue to $1M ARR SaaS companies. Emphasize simplicity, founder-focused UX, and pricing that aligns with early-stage budgets.",
+  "competitor_signals": [
+    {
+      "name": "Airtable",
+      "url": "https://www.airtable.com",
+      "title": "Airtable: Build Enterprise-ready AI Workflows, Apps &amp; Agents - Airtable",
+      "meta_description": "500,000+ brands use Airtable to enable real-time collaboration, automate repetitive tasks &amp; manual work, and streamline business processes in minutes. Join them.",
+      "headline": ""
+    }
+  ]
+}
